@@ -4,49 +4,19 @@
 
 A collection of short write-ups of things I learn from day to day.
 
+*1 TIL*
+
 ---
 
 ### Categories
 
-* [Chrome](#chrome)
-* [CSS](#css)
-* [Devops](#devops)
-* [Git](#git)
-* [Internet](#internet)
-* [JavaScript](#javascript)
-* [Linux](#linux)
-* [Mac](#mac)
-* [tmux](#tmux)
-* [Unix](#unix)
-* [Vim](#vim)
+* [Bash](#bash)
 
 ---
 
-### Chrome
+### Bash
 
-### CSS
-
-### Devops
-
-### Git
-
-### Internet
-
-### JavaScript
-
-### Linux
-
-### Mac
-
-### tmux
-
-### Unix
-
-### Vim
-
-## Webpack
-
-## Usage
+- [Expand Alias](bash/expand-alias.md)
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
 be invoked with `<leader>c`. This will do a substitution count of the
