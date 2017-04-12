@@ -11,12 +11,18 @@ A collection of short write-ups of things I learn from day to day.
 ### Categories
 
 * [Bash](#bash)
+* [Vim](#vim)
 
 ---
 
 ### Bash
 
 - [Expand Alias](bash/expand-alias.md)
+
+### Vim
+
+- [Sorting content in Vim](vim/sorting-content.md)
+- [Delete all lines not containing a string](vim/delete-all-lines-containing.md]
 
 The `.vimrc` file for this project contains a function `CountTILs` that can
 be invoked with `<leader>c`. This will do a substitution count of the
